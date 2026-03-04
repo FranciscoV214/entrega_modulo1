@@ -5,7 +5,7 @@ Mediación de Materiales TyHM 2026
 
 - Alarcón, Ana Valentina - <https://github.com/AnaAlarcon002>
   
-- Fernandez, Santiago Javier 
+- Fernandez, Santiago Javier - <https://github.com/Carula99>
    
 - Villarreal, Axel Francisco - <https://github.com/FranciscoV214>
 
