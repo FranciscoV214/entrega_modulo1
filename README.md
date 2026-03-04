@@ -1,7 +1,7 @@
 # TyHM_2026
 Mediación de Materiales TyHM 2026
 
-# Integrantes
+### Integrantes
 
 - Alarcón, Ana Valentina - <https://github.com/AnaAlarcon002>
   
