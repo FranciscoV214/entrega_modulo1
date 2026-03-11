@@ -14,8 +14,10 @@ Mediación de Materiales TyHM 2026
 - Mattolini, Milagros - <https://github.com/mattolinimilagros-code>
 
 
-  | Nombre              | Apellido   | GitHub Link                                      |
+| Nombre              | Apellido   | GitHub Link                                      |
+  
 |---------------------|------------|--------------------------------------------------|
+
 | Ana Valentina       | Alarcón    | [AnaAlarcon002](https://github.com/AnaAlarcon002)|
 | Santiago Javier     | Fernandez  | [Carula99](https://github.com/Carula99)          |
 | Axel Francisco      | Villarreal | [FranciscoV214](https://github.com/FranciscoV214)|
