@@ -16,4 +16,15 @@ Mediación de Materiales TyHM 2026
 
 
 
-  |Nombre|Apellido|E-mail|Nro wpp|Inductancia Esperada|Inductancia Obtenida|
+  | Nombre | Apellido | E-mail | Nro wpp | Inductancia Esperada | Inductancia Obtenida |
+  |-------|------|
+  |12|
+
+  | Nombre       | Edad | Profesión        | Ciudad        |
+|--------------|------|------------------|---------------|
+| Ana López    | 28   | Ingeniera Civil  | Buenos Aires  |
+| Juan Pérez   | 35   | Programador      | Mendoza       |
+| Carla Gómez  | 42   | Médica           | Córdoba       |
+| Martín Díaz  | 30   | Diseñador Gráfico| Rosario       |
+
+  
