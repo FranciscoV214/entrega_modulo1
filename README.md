@@ -24,5 +24,5 @@ Mediación de Materiales TyHM 2026
 | Joaquin Nicolas     | Jofré      | 2634521357                                          |166                   | 168|
 | Milagros            | Mattolini  | 2614698900                                          |413                   | 452 |
 
-
+![Logo del proyecto](./Gemini_Generated_Image_nrvit6nrvit6nrvi.png)
   
