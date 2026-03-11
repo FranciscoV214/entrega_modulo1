@@ -20,11 +20,13 @@ Mediación de Materiales TyHM 2026
   |-------|------|
   |12|
 
-  | Nombre       | Edad | Profesión        | Ciudad        |
-|--------------|------|------------------|---------------|
-| Ana López    | 28   | Ingeniera Civil  | Buenos Aires  |
-| Juan Pérez   | 35   | Programador      | Mendoza       |
-| Carla Gómez  | 42   | Médica           | Córdoba       |
-| Martín Díaz  | 30   | Diseñador Gráfico| Rosario       |
+  | Nombre              | Apellido   | GitHub Link                                      |
+|---------------------|------------|--------------------------------------------------|
+| Ana Valentina       | Alarcón    | [AnaAlarcon002](https://github.com/AnaAlarcon002)|
+| Santiago Javier     | Fernandez  | [Carula99](https://github.com/Carula99)          |
+| Axel Francisco      | Villarreal | [FranciscoV214](https://github.com/FranciscoV214)|
+| Nicolas Joaquin     | Jofré      | [Joaquin-Jofre](https://github.com/Joaquin-Jofre)|
+| Milagros            | Mattolini  | *(sin link)*                                     |
+
 
   
