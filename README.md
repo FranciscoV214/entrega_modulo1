@@ -14,13 +14,13 @@ Mediación de Materiales TyHM 2026
 - Mattolini, Milagros - <https://github.com/mattolinimilagros-code>
 
 
-| Nombre              | Apellido   | GitHub Link                                      | 
+| Nombre              | Apellido   | Número de Whatsapp                                    | Inductancia Esperada | Inductancia Obtenida |  
 |---------------------|------------|--------------------------------------------------|
-| Ana Valentina       | Alarcón    | [AnaAlarcon002](https://github.com/AnaAlarcon002)|
-| Santiago Javier     | Fernandez  | [Carula99](https://github.com/Carula99)          |
-| Axel Francisco      | Villarreal | [FranciscoV214](https://github.com/FranciscoV214)|
-| Nicolas Joaquin     | Jofré      | [Joaquin-Jofre](https://github.com/Joaquin-Jofre)|
-| Milagros            | Mattolini  | *(sin link)*                                     |
+| Ana Valentina       | Alarcón    | 2616936704 |
+| Santiago Javier     | Fernandez  | 2612158997 |
+| Axel Francisco      | Villarreal | 2622613163|
+| Nicolas Joaquin     | Jofré      | 2634521357|
+| Milagros            | Mattolini  | 2614698900|
 
 
   
