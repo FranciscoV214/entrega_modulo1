@@ -11,7 +11,7 @@ Mediación de Materiales TyHM 2026
 
 - Jofré, Nicolas Joaquin - <https://github.com/Joaquin-Jofre>
 
-- Mattolini, Milagros -
+- Mattolini, Milagros 
 
 
   | Nombre              | Apellido   | GitHub Link                                      |
