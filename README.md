@@ -19,7 +19,7 @@ Mediación de Materiales TyHM 2026
 | Ana Valentina       | Alarcón    | 2616936704                                          |131                   | |
 | Santiago Javier     | Fernandez  | 2612158997                                          |650                   | |
 | Axel Francisco      | Villarreal | 2622613163                                          |493                   | |
-| Nicolas Joaquin     | Jofré      | 2634521357                                          |166                   | |
+| Joaquin Nicolas     | Jofré      | 2634521357                                          |166                   | |
 | Milagros            | Mattolini  | 2614698900                                          |413                   | |
 
 
