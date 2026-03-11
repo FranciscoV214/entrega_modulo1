@@ -14,6 +14,8 @@ Mediación de Materiales TyHM 2026
 - Mattolini, Milagros - <https://github.com/mattolinimilagros-code>
 
 
+
+
 | Nombre 🗣️            | Apellido 🗣️  | Número de Whatsapp 🟢                               | Inductancia Esperada 🙏| Inductancia Obtenida 😔 |  
 |---------------------|------------|--------------------------------------------------   |----------            |----------------      | 
 | Ana Valentina       | Alarcón    | 2616936704                                          |131                   | |
