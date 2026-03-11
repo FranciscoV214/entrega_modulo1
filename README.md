@@ -14,12 +14,6 @@ Mediación de Materiales TyHM 2026
 - Mattolini, Milagros -
 
 
-
-
-  | Nombre | Apellido | E-mail | Nro wpp | Inductancia Esperada | Inductancia Obtenida |
-  |-------|------|
-  |12|
-
   | Nombre              | Apellido   | GitHub Link                                      |
 |---------------------|------------|--------------------------------------------------|
 | Ana Valentina       | Alarcón    | [AnaAlarcon002](https://github.com/AnaAlarcon002)|
