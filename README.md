@@ -8,5 +8,4 @@ Mediación de Materiales TyHM 2026
 - Fernandez, Santiago Javier - <https://github.com/Carula99>
    
 - Villarreal, Axel Francisco - <https://github.com/FranciscoV214>
-
-- Martinez, Katherina - <https://github.com/katherina-martinez>
+- 
